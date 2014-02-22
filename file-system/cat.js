@@ -1,0 +1,1 @@
+#!/user/binenv node --harmony
